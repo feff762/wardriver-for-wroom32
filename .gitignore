@@ -3,7 +3,7 @@ import bluetooth
 import socket
 import time
 import gc
-import uselect
+
 
 # --- Configuration ---
 AP_SSID = "UPTIME"
